@@ -1,54 +1,81 @@
 # Hi, I'm Tashu 👋
 
-🎓 B.Tech Computer Science Student  
-💻 Frontend Developer passionate about building clean & responsive web applications  
-📚 Currently mastering React and Data Structures (Striver A2Z)  
-🚀 Focused on building real-world projects and improving problem-solving skills  
+🎓 B.Tech Computer Science Student (CSE)
+💻 Frontend Developer passionate about building modern, responsive web applications
+🚀 Currently learning React, Data Structures & Algorithms, and Full Stack Development
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning React & MERN Stack
+- 💡 Solving DSA problems using Striver A2Z Sheet
+- 🎯 Building real-world projects to strengthen frontend development skills
+- 📈 Working towards Frontend Internship opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, C++
-- **Frontend:** HTML, CSS, Tailwind CSS, React (Learning)
-- **Core CS:** Data Structures & Algorithms
-- **Tools:** Git, GitHub, VS Code
+### Languages
+- JavaScript
+- C++
+- HTML5
+- CSS3
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Responsive Design
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vercel
 
 ---
 
-## 📌 Current Projects
+## 📂 Featured Projects
 
-- 🔹 Razorpay Landing Page Clone (Tailwind CSS)
-- 🔹 DSA Practice Repository (Striver A2Z Sheet)
-- 🔹 React Projects (Coming Soon)
+### 🚀 NxtIntern Dashboard
+A modern internship tracking dashboard built with React.
+
+✨ Features:
+- Internship Application Tracker
+- DSA Progress Tracker
+- Goal Management
+- Resume Builder
+- Analytics Dashboard
+- Dark / Light Mode
+- Local Storage
+- Responsive Design
+
+🔗 Live Demo: nxt-intern-h5z1zzjtd-tashu1.vercel.app
+
+
+
+### 📚 DSA Repository
+Solutions to Striver A2Z DSA Sheet in C++.
 
 ---
 
-## 📊 What I'm Working On
+## 📈 Currently Learning
 
-- Improving problem-solving consistency
-- Building scalable React projects
-- Writing cleaner, more structured code
+- React.js
+- MERN Stack
+- Advanced JavaScript
+- Data Structures & Algorithms
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/tashu-pal-457b1326
-- Email: tashup77@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/tashu-pal-457b1326
 
+📧 Email: tashup77@gmail.com
 
-<!--
-**Tashu-Pal/Tashu-Pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning. Always building.
