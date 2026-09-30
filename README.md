@@ -1,72 +1,99 @@
 # Hi, I'm Tashu 👋
 
 🎓 B.Tech Computer Science Student (CSE)
-💻 Frontend Developer passionate about building modern, responsive web applications
-🚀 Currently learning React, Data Structures & Algorithms, and Full Stack Development
+💻 Full Stack Developer (MERN) passionate about building modern, scalable web applications
+🚀 Currently learning Backend Development, MERN Stack, and Data Structures & Algorithms
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Learning React & MERN Stack
-- 💡 Solving DSA problems using Striver A2Z Sheet
-- 🎯 Building real-world projects to strengthen frontend development skills
-- 📈 Working towards Frontend Internship opportunities
+* 🌱 Currently learning Backend Development with the MERN Stack
+* 💡 Solving DSA problems using the Striver A2Z Sheet
+* 🛠 Building real-world full-stack projects to strengthen my development skills
+* 🎯 Working towards Software Development Internship opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- JavaScript
-- C++
-- HTML5
-- CSS3
+
+* JavaScript
+* C++
+* HTML5
+* CSS3
 
 ### Frontend
 
-- React
-- Tailwind CSS
-- Responsive Design
+* React.js
+* Tailwind CSS
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express.js
+* MongoDB *(Learning)*
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Vercel
+
+* Git
+* GitHub
+* VS Code
+* Vercel
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚀 NxtIntern Dashboard
-A modern internship tracking dashboard built with React.
+### 🚀 NxtIntern
 
-✨ Features:
-- Internship Application Tracker
-- DSA Progress Tracker
-- Goal Management
-- Resume Builder
-- Analytics Dashboard
-- Dark / Light Mode
-- Local Storage
-- Responsive Design
+A modern internship management platform built with React and evolving into the MERN stack.
 
-🔗 Live Demo: nxt-intern-h5z1zzjtd-tashu1.vercel.app
+✨ Features
 
+* Internship Application Tracker
+* DSA Progress Tracker
+* Goal Management
+* Resume Management
+* Analytics Dashboard
+* Dark / Light Mode
+* Responsive Design
 
+🔗 Live Demo: https://nxt-intern-h5z1zzjtd-tashu1.vercel.app
+
+---
+
+### 🛒 Delivery Mart
+
+A full-stack campus delivery platform that connects students for fast and convenient deliveries within the campus.
+
+✨ Features
+
+* User Authentication
+* Product Listings
+* Order Management
+* Secure Backend APIs
+* MongoDB Database Integration
+* Responsive UI
+
+🔗 GitHub: https://github.com/Tashu-Pal/Campus-Mart
+
+---
 
 ### 📚 DSA Repository
-Solutions to Striver A2Z DSA Sheet in C++.
+
+Solutions to the Striver A2Z DSA Sheet in C++ with a focus on problem-solving and optimized approaches.
 
 ---
 
 ## 📈 Currently Learning
 
-- React.js
-- MERN Stack
-- Advanced JavaScript
-- Data Structures & Algorithms
+* MERN Stack
+* Backend Development (Node.js & Express.js)
+* MongoDB
+* Data Structures & Algorithms
 
 ---
 
@@ -74,8 +101,8 @@ Solutions to Striver A2Z DSA Sheet in C++.
 
 💼 LinkedIn: https://www.linkedin.com/in/tashu-pal-457b1326
 
-📧 Email: tashup77@gmail.com
+📧 Email: [tashup77@gmail.com](mailto:tashup77@gmail.com)
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning. Always building. Always improving.
